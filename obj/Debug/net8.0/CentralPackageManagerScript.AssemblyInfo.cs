@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CentralPackageManagerScript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a15ff54dfa5472e7c2d0c716b0f05e56f24de3bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("CentralPackageManagerScript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CentralPackageManagerScript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\CentralPackageManagerScript\bin\Debug\net8.0\CentralPackageManagerScript.exe
+D:\CentralPackageManagerScript\bin\Debug\net8.0\CentralPackageManagerScript.deps.json
+D:\CentralPackageManagerScript\bin\Debug\net8.0\CentralPackageManagerScript.runtimeconfig.json
+D:\CentralPackageManagerScript\bin\Debug\net8.0\CentralPackageManagerScript.dll
+D:\CentralPackageManagerScript\bin\Debug\net8.0\CentralPackageManagerScript.pdb
+D:\CentralPackageManagerScript\obj\Debug\net8.0\CentralPackageManagerScript.GeneratedMSBuildEditorConfig.editorconfig
+D:\CentralPackageManagerScript\obj\Debug\net8.0\CentralPackageManagerScript.AssemblyInfoInputs.cache
+D:\CentralPackageManagerScript\obj\Debug\net8.0\CentralPackageManagerScript.AssemblyInfo.cs
+D:\CentralPackageManagerScript\obj\Debug\net8.0\CentralPackageManagerScript.csproj.CoreCompileInputs.cache
+D:\CentralPackageManagerScript\obj\Debug\net8.0\CentralPackageManagerScript.sourcelink.json
+D:\CentralPackageManagerScript\obj\Debug\net8.0\CentralPackageManagerScript.dll
+D:\CentralPackageManagerScript\obj\Debug\net8.0\refint\CentralPackageManagerScript.dll
+D:\CentralPackageManagerScript\obj\Debug\net8.0\CentralPackageManagerScript.pdb
+D:\CentralPackageManagerScript\obj\Debug\net8.0\CentralPackageManagerScript.genruntimeconfig.cache
+D:\CentralPackageManagerScript\obj\Debug\net8.0\ref\CentralPackageManagerScript.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CentralPackageManagerScript": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\eDiscoverySvc\\sources\\dev\\ServiceFabricServices\\ServiceFabricServices.sln\""
+    }
+  }
+}
